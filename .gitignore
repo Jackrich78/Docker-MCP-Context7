@@ -1,0 +1,67 @@
+# macOS
+     .DS_Store
+     .DS_Store?
+     ._*
+     .Spotlight-V100
+     .Trashes
+     ehthumbs.db
+     Thumbs.db
+
+     # Claude Code
+     .claude/
+     *.mcp.json
+
+     # Docker
+     .dockerignore
+
+     # Logs
+     *.log
+     npm-debug.log*
+     yarn-debug.log*
+     yarn-error.log*
+
+     # Runtime data
+     pids
+     *.pid
+     *.seed
+     *.pid.lock
+
+     # Coverage directory used by tools like istanbul
+     coverage/
+     *.lcov
+
+     # nyc test coverage
+     .nyc_output
+
+     # node_modules
+     node_modules/
+
+     # Temporary folders
+     tmp/
+     temp/
+
+     # IDEs
+     .vscode/
+     .idea/
+     *.swp
+     *.swo
+     *~
+
+     # OS generated files
+     Thumbs.db
+     ehthumbs.db
+
+     # Folder config file
+     Desktop.ini
+
+     # Recycle Bin used on file shares
+     $RECYCLE.BIN/
+
+     # Windows Installer files
+     *.cab
+     *.msi
+     *.msm
+     *.msp
+
+     # Windows shortcuts
+     *.lnk
